@@ -80,11 +80,6 @@ To run the Streamlit web application locally, use the following command:
 streamlit run app.py
 ```
 
-To train the model from scratch, use:
-```bash
-python train.py
-```
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
