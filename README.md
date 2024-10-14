@@ -11,7 +11,6 @@ This project focuses on developing a deep learning-based image classification mo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Grape disease detection is critical to prevent damage in vineyards, improve crop yields, and ensure the quality of produce. This project uses a Convolutional Neural Network (CNN) to classify grape leaf images into different categories of diseases, such as:
@@ -88,6 +87,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
